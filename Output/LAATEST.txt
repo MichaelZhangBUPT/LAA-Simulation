@@ -1,0 +1,936 @@
+Drop 0
+
+UEID:      Kbps    PacketTime    PacketLoss
+
+LTEPacketTimeAverage: -1.#IND
+LTEPacketLossAverage: 0
+
+
+NBID:      Kbps
+
+Total LTE Throughput:	0 Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_5  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_3_4  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_3_4 QAM16/RATE_4_5 QAM64/RATE_3_5 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum                0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)
+
+
+HSPAUEID:      Kbps      
+
+
+HSPANBID:Kbps      
+
+
+HSPA UE Total Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_4_5  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_4_5 QAM64/RATE_1_3 QAM64/RATE_1_2 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum          0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)
+
+
+WiFiUEID:Kbps      PacketTime    PacketLoss    
+0       6030.15       51.3333             0
+1       6030.15            74             0
+2       6113.77          82.5             0
+3       2010.05         111.5             0
+4       6030.15       51.3333             0
+5       6030.15       75.6667             0
+6       12060.3       53.5833             0
+7       6866.33       81.6667             0
+
+WiFiPacketTimeAverage: 67.3
+WiFiPacketLossAverage: 0
+WiFiAPID:         0	1	2	3	Average
+WiFiCollisionNum: 3	0	10	6	4.75
+WiFi UE Total Throughput:	51171.1 Kbps
+Average WiFi Cell Throughput:	12792.8 Kbps
+Average WiFi UE Throughput:	6396.38 Kbps
+
+
+LAAUEID:Kbps      PacketTime    PacketLoss    
+0        255095       15.3175             0
+1        261307       14.8846             0
+2        264963       14.7252             0
+3        273550       14.2574             0
+4        252720        15.416             0
+5        271540       14.2963             0
+6        266790       14.5947             0
+7        267337       14.5338             0
+
+LAAPacketTimeAverage: 14.7419
+LAAPacketLossAverage: 0
+LAANBID:         0	1	2	3	Average
+LAACollisionNum: 0	0	0	0	0
+LAA UE Total Throughput:	2.1133e+006 Kbps
+Average LAA Cell Throughput:	528325 Kbps
+Average LAA UE Throughput:	264163 Kbps
+
+
+DualModeUEID:  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+
+
+DualModeUESumThroughput  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUESumThroughput              0              0
+DualModeUEAverage  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUEAverage        -1.#IND        -1.#IND
+
+
+LTEWiFiUEID:     Thr(Kbps)          PacketTime         PacketLoss
+
+LTEWiFiPacketTimeAverage: -1.#IND -1.#IND
+LTEWiFiPacketLossAverage: 0 0
+			  LTE_Thr(Kbps) WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput                    0                   0
+LTEWiFiAverageCellThr              -1.#IND             -1.#IND
+LTEWiFiUEAverage              -1.#IND             -1.#IND
+
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 0.285175
+
+End of Drop 0
+
+
+
+LAATEST
+
+Total LTE UE Throughput:	0 Kbps
+Average LTE UE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Packet Time:	-1.#IND
+Average LTE UE Packet Loss:	0
+
+Total HSPA UE Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+Total WiFi UE Throughput:	51171.1 Kbps
+Average WiFi UE Cell Throughput:	12792.8 Kbps
+Average WiFi UE Throughput:	6396.38 Kbps
+Average WiFi UE Packet Time:	67.3
+Average WiFi UE Packet Loss:	0
+Average WiFi Cell Collision Num:	4.75
+
+Total LAA UE Throughput:	2.1133e+006 Kbps
+Average LAA UE Cell Throughput:	528325 Kbps
+Average LAA UE Throughput:	264163 Kbps
+Average LAA UE Packet Time:	14.7419
+Average LAA UE Packet Loss:	0
+Average LAA Cell Collision Num:	0
+
+DualModeUESumThroughput	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUESumThroughput	0	0
+DualModeUEAverage	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUEAverage	-1.#IND	-1.#IND
+
+			LTE_Thr(Kbps)	WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput	0	0
+LTEWiFiUECellAverage	-1.#IND	-1.#IND
+LTEWiFiUEAverage	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Time:	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Loss:	0	0
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 0.285175
+
+End of LAATEST
+
+
+
+Drop 0
+
+UEID:      Kbps    PacketTime    PacketLoss
+
+LTEPacketTimeAverage: -1.#IND
+LTEPacketLossAverage: 0
+
+
+NBID:      Kbps
+
+Total LTE Throughput:	0 Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_5  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_3_4  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_3_4 QAM16/RATE_4_5 QAM64/RATE_3_5 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum                0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)
+
+
+HSPAUEID:      Kbps      
+
+
+HSPANBID:Kbps      
+
+
+HSPA UE Total Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_4_5  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_4_5 QAM64/RATE_1_3 QAM64/RATE_1_2 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum          0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)
+
+
+WiFiUEID:Kbps      PacketTime    PacketLoss    
+0       16080.4        43.625             0
+1       14070.4       54.6429             0
+2        8040.2            71             0
+3       6030.15       61.6667             0
+4       12060.3       46.4167             0
+5       8562.81         65.75             0
+6       12060.3       59.0833             0
+7       6030.15          74.5             0
+
+WiFiPacketTimeAverage: 56.5854
+WiFiPacketLossAverage: 0
+WiFiAPID:         0	1	2	3	Average
+WiFiCollisionNum: 5	0	11	6	5.5
+WiFi UE Total Throughput:	82934.7 Kbps
+Average WiFi Cell Throughput:	20733.7 Kbps
+Average WiFi UE Throughput:	10366.8 Kbps
+
+
+LAAUEID:Kbps      PacketTime    PacketLoss    
+0        273367       14.3125             0
+1        277753       14.1304             0
+2        258750       15.1367             0
+3        259662       14.9922             0
+4        267337       14.6504             0
+5        271176       14.4328             0
+6        270810        14.444             0
+7        293467       13.2637             0
+
+LAAPacketTimeAverage: 14.3994
+LAAPacketLossAverage: 0
+LAANBID:         0	1	2	3	Average
+LAACollisionNum: 0	0	0	0	0
+LAA UE Total Throughput:	2.17232e+006 Kbps
+Average LAA Cell Throughput:	543080 Kbps
+Average LAA UE Throughput:	271540 Kbps
+
+
+DualModeUEID:  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+
+
+DualModeUESumThroughput  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUESumThroughput              0              0
+DualModeUEAverage  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUEAverage        -1.#IND        -1.#IND
+
+
+LTEWiFiUEID:     Thr(Kbps)          PacketTime         PacketLoss
+
+LTEWiFiPacketTimeAverage: -1.#IND -1.#IND
+LTEWiFiPacketLossAverage: 0 0
+			  LTE_Thr(Kbps) WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput                    0                   0
+LTEWiFiAverageCellThr              -1.#IND             -1.#IND
+LTEWiFiUEAverage              -1.#IND             -1.#IND
+
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 0.408098
+
+End of Drop 0
+
+
+
+LAATEST
+
+Total LTE UE Throughput:	0 Kbps
+Average LTE UE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Packet Time:	-1.#IND
+Average LTE UE Packet Loss:	0
+
+Total HSPA UE Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+Total WiFi UE Throughput:	82934.7 Kbps
+Average WiFi UE Cell Throughput:	20733.7 Kbps
+Average WiFi UE Throughput:	10366.8 Kbps
+Average WiFi UE Packet Time:	56.5854
+Average WiFi UE Packet Loss:	0
+Average WiFi Cell Collision Num:	5.5
+
+Total LAA UE Throughput:	2.17232e+006 Kbps
+Average LAA UE Cell Throughput:	543080 Kbps
+Average LAA UE Throughput:	271540 Kbps
+Average LAA UE Packet Time:	14.3994
+Average LAA UE Packet Loss:	0
+Average LAA Cell Collision Num:	0
+
+DualModeUESumThroughput	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUESumThroughput	0	0
+DualModeUEAverage	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUEAverage	-1.#IND	-1.#IND
+
+			LTE_Thr(Kbps)	WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput	0	0
+LTEWiFiUECellAverage	-1.#IND	-1.#IND
+LTEWiFiUEAverage	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Time:	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Loss:	0	0
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 0.408098
+
+End of LAATEST
+
+
+
+Drop 0
+
+UEID:      Kbps    PacketTime    PacketLoss
+
+LTEPacketTimeAverage: -1.#IND
+LTEPacketLossAverage: 0
+
+
+NBID:      Kbps
+
+Total LTE Throughput:	0 Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_5  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_3_4  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_3_4 QAM16/RATE_4_5 QAM64/RATE_3_5 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum                0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)
+
+
+HSPAUEID:      Kbps      
+
+
+HSPANBID:Kbps      
+
+
+HSPA UE Total Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_4_5  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_4_5 QAM64/RATE_1_3 QAM64/RATE_1_2 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum          0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)
+
+
+WiFiUEID:Kbps      PacketTime    PacketLoss    
+0       23333.5       46.4545             0
+1       18769.8       113.833             0
+2       18163.6       133.111             0
+3       25176.3       60.5833             0
+4       28140.7       46.9643             0
+5       19219.3       114.556             0
+6       25772.1       87.7917             0
+7       21145.7         92.35             0
+
+WiFiPacketTimeAverage: 82.8605
+WiFiPacketLossAverage: 0
+WiFiAPID:         0	1	2	3	Average
+WiFiCollisionNum: 10	0	45	15	17.5
+WiFi UE Total Throughput:	179721 Kbps
+Average WiFi Cell Throughput:	44930.3 Kbps
+Average WiFi UE Throughput:	22465.1 Kbps
+
+
+LAAUEID:Kbps      PacketTime    PacketLoss    
+0        246996       16.1803             0
+1        240569        16.584             0
+2        183711        21.044             0
+3        209518       19.0673             0
+4        247236       16.1545             0
+5        202615        19.785             0
+6        181362       21.8111             0
+7        231156       17.2696             0
+
+LAAPacketTimeAverage: 18.2407
+LAAPacketLossAverage: 0
+LAANBID:         0	1	2	3	Average
+LAACollisionNum: 0	0	0	0	0
+LAA UE Total Throughput:	1.74316e+006 Kbps
+Average LAA Cell Throughput:	435791 Kbps
+Average LAA UE Throughput:	217895 Kbps
+
+
+DualModeUEID:  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+
+
+DualModeUESumThroughput  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUESumThroughput              0              0
+DualModeUEAverage  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUEAverage        -1.#IND        -1.#IND
+
+
+LTEWiFiUEID:     Thr(Kbps)          PacketTime         PacketLoss
+
+LTEWiFiPacketTimeAverage: -1.#IND -1.#IND
+LTEWiFiPacketLossAverage: 0 0
+			  LTE_Thr(Kbps) WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput                    0                   0
+LTEWiFiAverageCellThr              -1.#IND             -1.#IND
+LTEWiFiUEAverage              -1.#IND             -1.#IND
+
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 1.19046
+
+End of Drop 0
+
+
+
+LAATEST
+
+Total LTE UE Throughput:	0 Kbps
+Average LTE UE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Packet Time:	-1.#IND
+Average LTE UE Packet Loss:	0
+
+Total HSPA UE Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+Total WiFi UE Throughput:	179721 Kbps
+Average WiFi UE Cell Throughput:	44930.3 Kbps
+Average WiFi UE Throughput:	22465.1 Kbps
+Average WiFi UE Packet Time:	82.8605
+Average WiFi UE Packet Loss:	0
+Average WiFi Cell Collision Num:	17.5
+
+Total LAA UE Throughput:	1.74316e+006 Kbps
+Average LAA UE Cell Throughput:	435791 Kbps
+Average LAA UE Throughput:	217895 Kbps
+Average LAA UE Packet Time:	18.2407
+Average LAA UE Packet Loss:	0
+Average LAA Cell Collision Num:	0
+
+DualModeUESumThroughput	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUESumThroughput	0	0
+DualModeUEAverage	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUEAverage	-1.#IND	-1.#IND
+
+			LTE_Thr(Kbps)	WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput	0	0
+LTEWiFiUECellAverage	-1.#IND	-1.#IND
+LTEWiFiUEAverage	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Time:	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Loss:	0	0
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 1.19046
+
+End of LAATEST
+
+
+
+Drop 0
+
+UEID:      Kbps    PacketTime    PacketLoss
+
+LTEPacketTimeAverage: -1.#IND
+LTEPacketLossAverage: 0
+
+
+NBID:      Kbps
+
+Total LTE Throughput:	0 Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_5  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_3_4  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_3_4 QAM16/RATE_4_5 QAM64/RATE_3_5 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum                0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)
+
+
+HSPAUEID:      Kbps      
+
+
+HSPANBID:Kbps      
+
+
+HSPA UE Total Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_4_5  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_4_5 QAM64/RATE_1_3 QAM64/RATE_1_2 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum          0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)
+
+
+WiFiUEID:Kbps      PacketTime    PacketLoss    
+0        8040.2        46.625             0
+1       6030.15       76.8333             0
+2       6030.15       84.6667             0
+3       2010.05         111.5             0
+4        4020.1          60.5             0
+5       2010.05         134.5             0
+6       2010.05           166             0
+7       2010.05         155.5             0
+
+WiFiPacketTimeAverage: 84.9688
+WiFiPacketLossAverage: 0
+WiFiAPID:         0	1	2	3	Average
+WiFiCollisionNum: 3	0	9	6	4.5
+WiFi UE Total Throughput:	32160.8 Kbps
+Average WiFi Cell Throughput:	8040.2 Kbps
+Average WiFi UE Throughput:	4020.1 Kbps
+
+
+LAAUEID:Kbps      PacketTime    PacketLoss    
+0        271906       14.0741             0
+1        262673       14.3654             0
+2        280647        13.518             0
+3        277570       13.6703             0
+4        267337       14.2744             0
+5        284880       13.3085             0
+6        280557       13.5827             0
+7        278119       13.7029             0
+
+LAAPacketTimeAverage: 13.8033
+LAAPacketLossAverage: 0
+LAANBID:         0	1	2	3	Average
+LAACollisionNum: 0	0	0	0	0
+LAA UE Total Throughput:	2.20369e+006 Kbps
+Average LAA Cell Throughput:	550922 Kbps
+Average LAA UE Throughput:	275461 Kbps
+
+
+DualModeUEID:  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+
+
+DualModeUESumThroughput  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUESumThroughput              0              0
+DualModeUEAverage  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUEAverage        -1.#IND        -1.#IND
+
+
+LTEWiFiUEID:     Thr(Kbps)          PacketTime         PacketLoss
+
+LTEWiFiPacketTimeAverage: -1.#IND -1.#IND
+LTEWiFiPacketLossAverage: 0 0
+			  LTE_Thr(Kbps) WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput                    0                   0
+LTEWiFiAverageCellThr              -1.#IND             -1.#IND
+LTEWiFiUEAverage              -1.#IND             -1.#IND
+
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 0.198442
+
+End of Drop 0
+
+
+
+LAATEST
+
+Total LTE UE Throughput:	0 Kbps
+Average LTE UE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Packet Time:	-1.#IND
+Average LTE UE Packet Loss:	0
+
+Total HSPA UE Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+Total WiFi UE Throughput:	32160.8 Kbps
+Average WiFi UE Cell Throughput:	8040.2 Kbps
+Average WiFi UE Throughput:	4020.1 Kbps
+Average WiFi UE Packet Time:	84.9688
+Average WiFi UE Packet Loss:	0
+Average WiFi Cell Collision Num:	4.5
+
+Total LAA UE Throughput:	2.20369e+006 Kbps
+Average LAA UE Cell Throughput:	550922 Kbps
+Average LAA UE Throughput:	275461 Kbps
+Average LAA UE Packet Time:	13.8033
+Average LAA UE Packet Loss:	0
+Average LAA Cell Collision Num:	0
+
+DualModeUESumThroughput	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUESumThroughput	0	0
+DualModeUEAverage	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUEAverage	-1.#IND	-1.#IND
+
+			LTE_Thr(Kbps)	WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput	0	0
+LTEWiFiUECellAverage	-1.#IND	-1.#IND
+LTEWiFiUEAverage	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Time:	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Loss:	0	0
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 0.198442
+
+End of LAATEST
+
+
+
+Drop 0
+
+UEID:      Kbps    PacketTime    PacketLoss
+
+LTEPacketTimeAverage: -1.#IND
+LTEPacketLossAverage: 0
+
+
+NBID:      Kbps
+
+Total LTE Throughput:	0 Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_5  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_3_4  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_3_4 QAM16/RATE_4_5 QAM64/RATE_3_5 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum                0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)
+
+
+HSPAUEID:      Kbps      
+
+
+HSPANBID:Kbps      
+
+
+HSPA UE Total Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_4_5  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_4_5 QAM64/RATE_1_3 QAM64/RATE_1_2 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum          0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)
+
+
+WiFiUEID:Kbps      PacketTime    PacketLoss    
+0       18264.8         105.1             0
+1       8160.73           395             0
+2       4697.72        818.25             0
+3       14067.6       165.857             0
+4       19879.5        109.15             0
+5       7084.57       491.833             0
+6       10958.9       247.833             0
+7       9132.42         346.7             0
+8         16312         112.5             0
+9       12785.4       232.071             0
+10      12184.1       237.583             0
+11      7790.32       317.125             0
+12      20091.3       97.2273             0
+13      11899.2       274.917             0
+14      5324.57        835.75             0
+15      17511.6       173.444             0
+16      12785.4       128.143             0
+17      9360.37         317.3             0
+18      7951.78        391.25             0
+19      14020.1       192.643             0
+
+WiFiPacketTimeAverage: 225.878
+WiFiPacketLossAverage: 0
+WiFiAPID:         0	1	2	3	Average
+WiFiCollisionNum: 88	118	199	147	138
+WiFi UE Total Throughput:	240262 Kbps
+Average WiFi Cell Throughput:	60065.6 Kbps
+Average WiFi UE Throughput:	12013.1 Kbps
+
+
+LAAUEID:Kbps      PacketTime    PacketLoss    
+0       72515.5       55.8846             0
+1       15841.6       229.938             0
+2       3737.19       1067.75             0
+3         31300       124.765             0
+4       62800.9       63.8235             0
+5       21486.7       152.273             0
+6       4806.08         854.5             0
+7       29655.7       133.031             0
+8       64511.9       62.2571             0
+9       23653.4       135.208             0
+10      7038.81       624.833             0
+11      5362.12        819.25             0
+12      66419.2       60.3333             0
+13      21368.9       176.864             0
+14      4510.05         916.5             0
+15      30300.9       121.969             0
+16      64551.1          62.6             0
+17      22570.9       163.875             0
+18      5604.11           708             0
+19      31674.9       125.471             0
+
+LAAPacketTimeAverage: 126.482
+LAAPacketLossAverage: 0
+LAANBID:         0	1	2	3	Average
+LAACollisionNum: 0	0	0	0	0
+LAA UE Total Throughput:	589710 Kbps
+Average LAA Cell Throughput:	147428 Kbps
+Average LAA UE Throughput:	29485.5 Kbps
+
+
+DualModeUEID:  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+
+
+DualModeUESumThroughput  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUESumThroughput              0              0
+DualModeUEAverage  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUEAverage        -1.#IND        -1.#IND
+
+
+LTEWiFiUEID:     Thr(Kbps)          PacketTime         PacketLoss
+
+LTEWiFiPacketTimeAverage: -1.#IND -1.#IND
+LTEWiFiPacketLossAverage: 0 0
+			  LTE_Thr(Kbps) WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput                    0                   0
+LTEWiFiAverageCellThr              -1.#IND             -1.#IND
+LTEWiFiUEAverage              -1.#IND             -1.#IND
+
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 1.84494
+
+End of Drop 0
+
+
+
+LAATEST
+
+Total LTE UE Throughput:	0 Kbps
+Average LTE UE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Packet Time:	-1.#IND
+Average LTE UE Packet Loss:	0
+
+Total HSPA UE Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+Total WiFi UE Throughput:	240262 Kbps
+Average WiFi UE Cell Throughput:	60065.6 Kbps
+Average WiFi UE Throughput:	12013.1 Kbps
+Average WiFi UE Packet Time:	225.878
+Average WiFi UE Packet Loss:	0
+Average WiFi Cell Collision Num:	138
+
+Total LAA UE Throughput:	589710 Kbps
+Average LAA UE Cell Throughput:	147428 Kbps
+Average LAA UE Throughput:	29485.5 Kbps
+Average LAA UE Packet Time:	126.482
+Average LAA UE Packet Loss:	0
+Average LAA Cell Collision Num:	0
+
+DualModeUESumThroughput	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUESumThroughput	0	0
+DualModeUEAverage	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUEAverage	-1.#IND	-1.#IND
+
+			LTE_Thr(Kbps)	WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput	0	0
+LTEWiFiUECellAverage	-1.#IND	-1.#IND
+LTEWiFiUEAverage	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Time:	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Loss:	0	0
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 1.84494
+
+End of LAATEST
+
+
+
+Drop 0
+
+UEID:      Kbps    PacketTime    PacketLoss
+
+LTEPacketTimeAverage: -1.#IND
+LTEPacketLossAverage: 0
+
+
+NBID:      Kbps
+
+Total LTE Throughput:	0 Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_5  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_3_4  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_3_4 QAM16/RATE_4_5 QAM64/RATE_3_5 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum                0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)              0(0%)
+
+
+HSPAUEID:      Kbps      
+
+
+HSPANBID:Kbps      
+
+
+HSPA UE Total Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+
+
+
+Statistic of MCS
+NBID:  QPSk/RATE_1_3  QPSk/RATE_1_2  QPSk/RATE_2_3  QPSk/RATE_4_5  QAM16/RATE_1_2 QAM16/RATE_2_3 QAM16/RATE_4_5 QAM64/RATE_1_3 QAM64/RATE_1_2 QAM64/RATE_2_3 QAM64/RATE_4_5
+Sum          0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)        0(0%)
+
+
+WiFiUEID:Kbps      PacketTime    PacketLoss    
+0       16438.4       75.8333             0
+1       12785.4       170.643             0
+2       7274.52       275.667             0
+3       11243.8       143.917             0
+4       9550.32          79.1             0
+5       10633.1         206.3             0
+6       10433.6           168             0
+7        9217.9         244.7             0
+8       16438.4       80.7778             0
+9       7305.94       191.375             0
+10      5536.44         183.5             0
+11      9132.42         238.1             0
+12      15438.2       73.8125             0
+13      4593.24         213.5             0
+14      6020.82       302.667             0
+15      18264.8        105.35             0
+16      13393.2       107.357             0
+17      8464.66       191.875             0
+18      13830.1       144.071             0
+19      10958.9           157             0
+
+WiFiPacketTimeAverage: 148.142
+WiFiPacketLossAverage: 0
+WiFiAPID:         0	1	2	3	Average
+WiFiCollisionNum: 57	60	98	87	75.5
+WiFi UE Total Throughput:	216954 Kbps
+Average WiFi Cell Throughput:	54238.5 Kbps
+Average WiFi UE Throughput:	10847.7 Kbps
+
+
+LAAUEID:Kbps      PacketTime    PacketLoss    
+0       82009.1       48.9886             0
+1       54653.4       69.9655             0
+2       32047.5       128.588             0
+3       68689.5       48.7297             0
+4       73623.3       54.3125             0
+5       56168.5       67.5167             0
+6       32876.7       121.722             0
+7       60120.8       56.5156             0
+8       70742.5       56.5921             0
+9       59427.4       64.3438             0
+10      33347.9       120.611             0
+11      28778.1       143.867             0
+12      74330.6       54.0375             0
+13      57372.1       65.9194             0
+14      32491.3       127.824             0
+15        64426       61.1571             0
+16      76712.3       52.0595             0
+17      44475.8       87.4375             0
+18      32518.7       127.559             0
+19      69406.4       57.5395             0
+
+LAAPacketTimeAverage: 70.8215
+LAAPacketLossAverage: 0
+LAANBID:         0	1	2	3	Average
+LAACollisionNum: 0	0	0	0	0
+LAA UE Total Throughput:	1.10422e+006 Kbps
+Average LAA Cell Throughput:	276054 Kbps
+Average LAA UE Throughput:	55210.9 Kbps
+
+
+DualModeUEID:  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+
+
+DualModeUESumThroughput  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUESumThroughput              0              0
+DualModeUEAverage  LTE_Thr(Kbps) HSPA_Thr(Kbps)
+DualModeUEAverage        -1.#IND        -1.#IND
+
+
+LTEWiFiUEID:     Thr(Kbps)          PacketTime         PacketLoss
+
+LTEWiFiPacketTimeAverage: -1.#IND -1.#IND
+LTEWiFiPacketLossAverage: 0 0
+			  LTE_Thr(Kbps) WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput                    0                   0
+LTEWiFiAverageCellThr              -1.#IND             -1.#IND
+LTEWiFiUEAverage              -1.#IND             -1.#IND
+
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 1.48122
+
+End of Drop 0
+
+
+
+LAATEST
+
+Total LTE UE Throughput:	0 Kbps
+Average LTE UE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Throughput:	-1.#IND Kbps
+Average LTE Cell Throughput:	-1.#IND Kbps
+Average LTE UE Packet Time:	-1.#IND
+Average LTE UE Packet Loss:	0
+
+Total HSPA UE Throughput:	0 Kbps
+Average HSPA UE Throughput:	-1.#IND Kbps
+Average HSPA Cell Throughput:	-1.#IND Kbps
+
+Total WiFi UE Throughput:	216954 Kbps
+Average WiFi UE Cell Throughput:	54238.5 Kbps
+Average WiFi UE Throughput:	10847.7 Kbps
+Average WiFi UE Packet Time:	148.142
+Average WiFi UE Packet Loss:	0
+Average WiFi Cell Collision Num:	75.5
+
+Total LAA UE Throughput:	1.10422e+006 Kbps
+Average LAA UE Cell Throughput:	276054 Kbps
+Average LAA UE Throughput:	55210.9 Kbps
+Average LAA UE Packet Time:	70.8215
+Average LAA UE Packet Loss:	0
+Average LAA Cell Collision Num:	0
+
+DualModeUESumThroughput	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUESumThroughput	0	0
+DualModeUEAverage	LTE_Thr(Kbps)	HSPA_Thr(Kbps)
+DualModeUEAverage	-1.#IND	-1.#IND
+
+			LTE_Thr(Kbps)	WiFi_Thr(Kbps)
+LTEWiFiUESumThroughput	0	0
+LTEWiFiUECellAverage	-1.#IND	-1.#IND
+LTEWiFiUEAverage	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Time:	-1.#IND	-1.#IND
+Average LTEWiFi UE Packet Loss:	0	0
+
+LTEChannelUtilization: -1.#IND
+WiFiChannelUtilization: 1.48122
+
+End of LAATEST
+
+
+
